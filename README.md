@@ -28,7 +28,7 @@ Download `weights`, and put them in a folder `pretrained/`
 | ShanghaiTech | [![Google drive](https://colab.research.google.com/assets/colab-badge.svg)](https://) |
  
 
-After preparing a dataset, you can train a Nerfie by running:
+After preparing a dataset, you can train a model by running:
     
     python train.py \
         --data_dir $DATASET_PATH \
