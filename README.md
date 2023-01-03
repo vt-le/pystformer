@@ -68,7 +68,7 @@ If you find our work useful, please consider citing:
 @article{le2023pystformer
   author    = {Le, Viet-Tuan                
                and Kim, Yong-Guk},
-  title     = {PySTformer: Pyramidal Spatio-Temporal Transformer for Video Anomaly Detection},
+  title     = {PySTformer: Pyramidal Spatio-Temporal Transformer for Anomaly Detection in Aerial and Surveillance Videos.},
   journal   = {Expert Systems with Applications},
   year      = {2023},
   publisher = {Elsevier}
