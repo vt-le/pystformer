@@ -1,5 +1,5 @@
-# PySTformer: Pyramidal Spatio-Temporal Transformer for Video Anomaly Detection
-This is the code for "PySTformer: Pyramidal Spatio-Temporal Transformer for Video Anomaly Detection".
+# PySTformer: Pyramidal Spatio-Temporal Transformer for Anomaly Detection in Aerial and Surveillance Videos
+This is the code for "PySTformer: Pyramidal Spatio-Temporal Transformer for Anomaly Detection in Aerial and Surveillance Videos".
 
  * [Project Page](https://vt-le.github.io/pystformer)
  * [Paper](https://arxiv.org)
